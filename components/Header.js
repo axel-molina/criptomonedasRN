@@ -16,7 +16,6 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontSize: 25,
         paddingTop: Platform.OS == 'ios' ? 50 : 10,
-        backgroundColor: '#5e49e2',
         paddingBottom: 10,
         color: 'white',
         textTransform: 'uppercase',
